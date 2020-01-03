@@ -1,1 +1,2 @@
-# severa-soap-types
+# Visma Severa SOAP API Types
+
